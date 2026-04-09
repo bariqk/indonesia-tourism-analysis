@@ -1,0 +1,1045 @@
+port,entry_type,year,month,month_name,arrivals
+Ngurah Rai,Air,2023,1,Jan,329909
+Ngurah Rai,Air,2023,2,Feb,317005
+Ngurah Rai,Air,2023,3,Mar,366956
+Ngurah Rai,Air,2023,4,Apr,410281
+Ngurah Rai,Air,2023,5,May,439454
+Ngurah Rai,Air,2023,6,Jun,478127
+Ngurah Rai,Air,2023,7,Jul,541272
+Ngurah Rai,Air,2023,8,Aug,522063
+Ngurah Rai,Air,2023,9,Sep,508297
+Ngurah Rai,Air,2023,10,Oct,458845
+Ngurah Rai,Air,2023,11,Nov,397522
+Ngurah Rai,Air,2023,12,Dec,478382
+Ngurah Rai,Air,2024,1,Jan,414937
+Ngurah Rai,Air,2024,2,Feb,454398
+Ngurah Rai,Air,2024,3,Mar,463804
+Ngurah Rai,Air,2024,4,Apr,502870
+Ngurah Rai,Air,2024,5,May,544492
+Ngurah Rai,Air,2024,6,Jun,520792
+Ngurah Rai,Air,2024,7,Jul,625569
+Ngurah Rai,Air,2024,8,Aug,613540
+Ngurah Rai,Air,2024,9,Sep,591848
+Ngurah Rai,Air,2024,10,Oct,554892
+Ngurah Rai,Air,2024,11,Nov,472714
+Ngurah Rai,Air,2024,12,Dec,548685
+Ngurah Rai,Air,2025,1,Jan,526831
+Ngurah Rai,Air,2025,2,Feb,444411
+Ngurah Rai,Air,2025,3,Mar,464697
+Ngurah Rai,Air,2025,4,Apr,587315
+Ngurah Rai,Air,2025,5,May,602055
+Ngurah Rai,Air,2025,6,Jun,637744
+Ngurah Rai,Air,2025,7,Jul,697068
+Ngurah Rai,Air,2025,8,Aug,682839
+Ngurah Rai,Air,2025,9,Sep,634482
+Ngurah Rai,Air,2025,10,Oct,594846
+Ngurah Rai,Air,2025,11,Nov,476507
+Ngurah Rai,Air,2025,12,Dec,558790
+Soekarno-Hatta,Air,2023,1,Jan,115101
+Soekarno-Hatta,Air,2023,2,Feb,124803
+Soekarno-Hatta,Air,2023,3,Mar,140859
+Soekarno-Hatta,Air,2023,4,Apr,99289
+Soekarno-Hatta,Air,2023,5,May,158550
+Soekarno-Hatta,Air,2023,6,Jun,161114
+Soekarno-Hatta,Air,2023,7,Jul,204000
+Soekarno-Hatta,Air,2023,8,Aug,218512
+Soekarno-Hatta,Air,2023,9,Sep,190058
+Soekarno-Hatta,Air,2023,10,Oct,181627
+Soekarno-Hatta,Air,2023,11,Nov,186695
+Soekarno-Hatta,Air,2023,12,Dec,172397
+Soekarno-Hatta,Air,2024,1,Jan,157979
+Soekarno-Hatta,Air,2024,2,Feb,187641
+Soekarno-Hatta,Air,2024,3,Mar,160917
+Soekarno-Hatta,Air,2024,4,Apr,157409
+Soekarno-Hatta,Air,2024,5,May,201574
+Soekarno-Hatta,Air,2024,6,Jun,225985
+Soekarno-Hatta,Air,2024,7,Jul,271680
+Soekarno-Hatta,Air,2024,8,Aug,272849
+Soekarno-Hatta,Air,2024,9,Sep,250852
+Soekarno-Hatta,Air,2024,10,Oct,218170
+Soekarno-Hatta,Air,2024,11,Nov,212178
+Soekarno-Hatta,Air,2024,12,Dec,207019
+Soekarno-Hatta,Air,2025,1,Jan,193433
+Soekarno-Hatta,Air,2025,2,Feb,199306
+Soekarno-Hatta,Air,2025,3,Mar,146390
+Soekarno-Hatta,Air,2025,4,Apr,186523
+Soekarno-Hatta,Air,2025,5,May,233751
+Soekarno-Hatta,Air,2025,6,Jun,236013
+Soekarno-Hatta,Air,2025,7,Jul,290369
+Soekarno-Hatta,Air,2025,8,Aug,304970
+Soekarno-Hatta,Air,2025,9,Sep,244404
+Soekarno-Hatta,Air,2025,10,Oct,254968
+Soekarno-Hatta,Air,2025,11,Nov,240330
+Soekarno-Hatta,Air,2025,12,Dec,230381
+Juanda,Air,2023,1,Jan,10777
+Juanda,Air,2023,2,Feb,11882
+Juanda,Air,2023,3,Mar,10606
+Juanda,Air,2023,4,Apr,12361
+Juanda,Air,2023,5,May,15734
+Juanda,Air,2023,6,Jun,18025
+Juanda,Air,2023,7,Jul,20303
+Juanda,Air,2023,8,Aug,25548
+Juanda,Air,2023,9,Sep,25593
+Juanda,Air,2023,10,Oct,21996
+Juanda,Air,2023,11,Nov,22389
+Juanda,Air,2023,12,Dec,23244
+Juanda,Air,2024,1,Jan,17196
+Juanda,Air,2024,2,Feb,28026
+Juanda,Air,2024,3,Mar,18543
+Juanda,Air,2024,4,Apr,29043
+Juanda,Air,2024,5,May,31222
+Juanda,Air,2024,6,Jun,25015
+Juanda,Air,2024,7,Jul,34446
+Juanda,Air,2024,8,Aug,38587
+Juanda,Air,2024,9,Sep,31700
+Juanda,Air,2024,10,Oct,28182
+Juanda,Air,2024,11,Nov,20820
+Juanda,Air,2024,12,Dec,19265
+Juanda,Air,2025,1,Jan,22119
+Juanda,Air,2025,2,Feb,19205
+Juanda,Air,2025,3,Mar,15647
+Juanda,Air,2025,4,Apr,24800
+Juanda,Air,2025,5,May,33409
+Juanda,Air,2025,6,Jun,34092
+Juanda,Air,2025,7,Jul,34421
+Juanda,Air,2025,8,Aug,37406
+Juanda,Air,2025,9,Sep,32664
+Juanda,Air,2025,10,Oct,29534
+Juanda,Air,2025,11,Nov,21629
+Juanda,Air,2025,12,Dec,25019
+Kualanamu,Air,2023,1,Jan,14146
+Kualanamu,Air,2023,2,Feb,15072
+Kualanamu,Air,2023,3,Mar,16106
+Kualanamu,Air,2023,4,Apr,15497
+Kualanamu,Air,2023,5,May,16262
+Kualanamu,Air,2023,6,Jun,16527
+Kualanamu,Air,2023,7,Jul,17478
+Kualanamu,Air,2023,8,Aug,20843
+Kualanamu,Air,2023,9,Sep,15783
+Kualanamu,Air,2023,10,Oct,14161
+Kualanamu,Air,2023,11,Nov,16363
+Kualanamu,Air,2023,12,Dec,18237
+Kualanamu,Air,2024,1,Jan,14751
+Kualanamu,Air,2024,2,Feb,24628
+Kualanamu,Air,2024,3,Mar,15068
+Kualanamu,Air,2024,4,Apr,25178
+Kualanamu,Air,2024,5,May,20469
+Kualanamu,Air,2024,6,Jun,16949
+Kualanamu,Air,2024,7,Jul,22693
+Kualanamu,Air,2024,8,Aug,21930
+Kualanamu,Air,2024,9,Sep,24956
+Kualanamu,Air,2024,10,Oct,20129
+Kualanamu,Air,2024,11,Nov,19145
+Kualanamu,Air,2024,12,Dec,21142
+Kualanamu,Air,2025,1,Jan,23011
+Kualanamu,Air,2025,2,Feb,22546
+Kualanamu,Air,2025,3,Mar,16881
+Kualanamu,Air,2025,4,Apr,19709
+Kualanamu,Air,2025,5,May,26183
+Kualanamu,Air,2025,6,Jun,25183
+Kualanamu,Air,2025,7,Jul,28306
+Kualanamu,Air,2025,8,Aug,29858
+Kualanamu,Air,2025,9,Sep,29107
+Kualanamu,Air,2025,10,Oct,24621
+Kualanamu,Air,2025,11,Nov,20826
+Kualanamu,Air,2025,12,Dec,23425
+Husein Sastranegara,Air,2023,1,Jan,0
+Husein Sastranegara,Air,2023,2,Feb,0
+Husein Sastranegara,Air,2023,3,Mar,0
+Husein Sastranegara,Air,2023,4,Apr,0
+Husein Sastranegara,Air,2023,5,May,17
+Husein Sastranegara,Air,2023,6,Jun,24
+Husein Sastranegara,Air,2023,7,Jul,3
+Husein Sastranegara,Air,2023,8,Aug,0
+Husein Sastranegara,Air,2023,9,Sep,0
+Husein Sastranegara,Air,2023,10,Oct,0
+Husein Sastranegara,Air,2023,11,Nov,0
+Husein Sastranegara,Air,2023,12,Dec,0
+Husein Sastranegara,Air,2024,1,Jan,0
+Husein Sastranegara,Air,2024,2,Feb,0
+Husein Sastranegara,Air,2024,3,Mar,0
+Husein Sastranegara,Air,2024,4,Apr,0
+Husein Sastranegara,Air,2024,5,May,0
+Husein Sastranegara,Air,2024,6,Jun,0
+Husein Sastranegara,Air,2024,7,Jul,22
+Husein Sastranegara,Air,2024,8,Aug,0
+Husein Sastranegara,Air,2024,9,Sep,0
+Husein Sastranegara,Air,2024,10,Oct,0
+Husein Sastranegara,Air,2024,11,Nov,0
+Husein Sastranegara,Air,2024,12,Dec,0
+Husein Sastranegara,Air,2025,1,Jan,0
+Husein Sastranegara,Air,2025,2,Feb,0
+Husein Sastranegara,Air,2025,3,Mar,0
+Husein Sastranegara,Air,2025,4,Apr,0
+Husein Sastranegara,Air,2025,5,May,0
+Husein Sastranegara,Air,2025,6,Jun,0
+Husein Sastranegara,Air,2025,7,Jul,0
+Husein Sastranegara,Air,2025,8,Aug,0
+Husein Sastranegara,Air,2025,9,Sep,0
+Husein Sastranegara,Air,2025,10,Oct,0
+Husein Sastranegara,Air,2025,11,Nov,0
+Husein Sastranegara,Air,2025,12,Dec,0
+Adi Sucipto,Air,2023,1,Jan,3878
+Adi Sucipto,Air,2023,2,Feb,4839
+Adi Sucipto,Air,2023,3,Mar,5007
+Adi Sucipto,Air,2023,4,Apr,5592
+Adi Sucipto,Air,2023,5,May,8160
+Adi Sucipto,Air,2023,6,Jun,11188
+Adi Sucipto,Air,2023,7,Jul,12444
+Adi Sucipto,Air,2023,8,Aug,12974
+Adi Sucipto,Air,2023,9,Sep,11855
+Adi Sucipto,Air,2023,10,Oct,8536
+Adi Sucipto,Air,2023,11,Nov,9675
+Adi Sucipto,Air,2023,12,Dec,11338
+Adi Sucipto,Air,2024,1,Jan,6879
+Adi Sucipto,Air,2024,2,Feb,9813
+Adi Sucipto,Air,2024,3,Mar,6258
+Adi Sucipto,Air,2024,4,Apr,8790
+Adi Sucipto,Air,2024,5,May,11323
+Adi Sucipto,Air,2024,6,Jun,8134
+Adi Sucipto,Air,2024,7,Jul,11120
+Adi Sucipto,Air,2024,8,Aug,10136
+Adi Sucipto,Air,2024,9,Sep,9621
+Adi Sucipto,Air,2024,10,Oct,7828
+Adi Sucipto,Air,2024,11,Nov,6728
+Adi Sucipto,Air,2024,12,Dec,7167
+Adi Sucipto,Air,2025,1,Jan,6717
+Adi Sucipto,Air,2025,2,Feb,6087
+Adi Sucipto,Air,2025,3,Mar,3185
+Adi Sucipto,Air,2025,4,Apr,7135
+Adi Sucipto,Air,2025,5,May,9699
+Adi Sucipto,Air,2025,6,Jun,10424
+Adi Sucipto,Air,2025,7,Jul,11322
+Adi Sucipto,Air,2025,8,Aug,12554
+Adi Sucipto,Air,2025,9,Sep,10960
+Adi Sucipto,Air,2025,10,Oct,8712
+Adi Sucipto,Air,2025,11,Nov,8005
+Adi Sucipto,Air,2025,12,Dec,8017
+Bandara Int. Lombok,Air,2023,1,Jan,2202
+Bandara Int. Lombok,Air,2023,2,Feb,2355
+Bandara Int. Lombok,Air,2023,3,Mar,2099
+Bandara Int. Lombok,Air,2023,4,Apr,2903
+Bandara Int. Lombok,Air,2023,5,May,4848
+Bandara Int. Lombok,Air,2023,6,Jun,5721
+Bandara Int. Lombok,Air,2023,7,Jul,6433
+Bandara Int. Lombok,Air,2023,8,Aug,6245
+Bandara Int. Lombok,Air,2023,9,Sep,6294
+Bandara Int. Lombok,Air,2023,10,Oct,5904
+Bandara Int. Lombok,Air,2023,11,Nov,5278
+Bandara Int. Lombok,Air,2023,12,Dec,7304
+Bandara Int. Lombok,Air,2024,1,Jan,4958
+Bandara Int. Lombok,Air,2024,2,Feb,7748
+Bandara Int. Lombok,Air,2024,3,Mar,5208
+Bandara Int. Lombok,Air,2024,4,Apr,6536
+Bandara Int. Lombok,Air,2024,5,May,7742
+Bandara Int. Lombok,Air,2024,6,Jun,6893
+Bandara Int. Lombok,Air,2024,7,Jul,8652
+Bandara Int. Lombok,Air,2024,8,Aug,8122
+Bandara Int. Lombok,Air,2024,9,Sep,7461
+Bandara Int. Lombok,Air,2024,10,Oct,7169
+Bandara Int. Lombok,Air,2024,11,Nov,4947
+Bandara Int. Lombok,Air,2024,12,Dec,6108
+Bandara Int. Lombok,Air,2025,1,Jan,6295
+Bandara Int. Lombok,Air,2025,2,Feb,4926
+Bandara Int. Lombok,Air,2025,3,Mar,5441
+Bandara Int. Lombok,Air,2025,4,Apr,7812
+Bandara Int. Lombok,Air,2025,5,May,8641
+Bandara Int. Lombok,Air,2025,6,Jun,7784
+Bandara Int. Lombok,Air,2025,7,Jul,10512
+Bandara Int. Lombok,Air,2025,8,Aug,10207
+Bandara Int. Lombok,Air,2025,9,Sep,9333
+Bandara Int. Lombok,Air,2025,10,Oct,9321
+Bandara Int. Lombok,Air,2025,11,Nov,6689
+Bandara Int. Lombok,Air,2025,12,Dec,7714
+Sam Ratulangi,Air,2023,1,Jan,803
+Sam Ratulangi,Air,2023,2,Feb,1848
+Sam Ratulangi,Air,2023,3,Mar,4793
+Sam Ratulangi,Air,2023,4,Apr,4156
+Sam Ratulangi,Air,2023,5,May,3798
+Sam Ratulangi,Air,2023,6,Jun,3691
+Sam Ratulangi,Air,2023,7,Jul,3782
+Sam Ratulangi,Air,2023,8,Aug,5397
+Sam Ratulangi,Air,2023,9,Sep,5922
+Sam Ratulangi,Air,2023,10,Oct,4645
+Sam Ratulangi,Air,2023,11,Nov,4611
+Sam Ratulangi,Air,2023,12,Dec,3917
+Sam Ratulangi,Air,2024,1,Jan,3384
+Sam Ratulangi,Air,2024,2,Feb,2615
+Sam Ratulangi,Air,2024,3,Mar,4045
+Sam Ratulangi,Air,2024,4,Apr,3451
+Sam Ratulangi,Air,2024,5,May,3427
+Sam Ratulangi,Air,2024,6,Jun,3424
+Sam Ratulangi,Air,2024,7,Jul,4743
+Sam Ratulangi,Air,2024,8,Aug,4436
+Sam Ratulangi,Air,2024,9,Sep,4791
+Sam Ratulangi,Air,2024,10,Oct,4674
+Sam Ratulangi,Air,2024,11,Nov,4532
+Sam Ratulangi,Air,2024,12,Dec,4097
+Sam Ratulangi,Air,2025,1,Jan,3788
+Sam Ratulangi,Air,2025,2,Feb,3497
+Sam Ratulangi,Air,2025,3,Mar,4403
+Sam Ratulangi,Air,2025,4,Apr,4070
+Sam Ratulangi,Air,2025,5,May,3902
+Sam Ratulangi,Air,2025,6,Jun,3742
+Sam Ratulangi,Air,2025,7,Jul,5903
+Sam Ratulangi,Air,2025,8,Aug,5656
+Sam Ratulangi,Air,2025,9,Sep,5600
+Sam Ratulangi,Air,2025,10,Oct,6513
+Sam Ratulangi,Air,2025,11,Nov,7401
+Sam Ratulangi,Air,2025,12,Dec,7020
+Minangkabau,Air,2023,1,Jan,2878
+Minangkabau,Air,2023,2,Feb,3590
+Minangkabau,Air,2023,3,Mar,2765
+Minangkabau,Air,2023,4,Apr,4100
+Minangkabau,Air,2023,5,May,4624
+Minangkabau,Air,2023,6,Jun,5226
+Minangkabau,Air,2023,7,Jul,4946
+Minangkabau,Air,2023,8,Aug,5577
+Minangkabau,Air,2023,9,Sep,5453
+Minangkabau,Air,2023,10,Oct,4925
+Minangkabau,Air,2023,11,Nov,5898
+Minangkabau,Air,2023,12,Dec,6710
+Minangkabau,Air,2024,1,Jan,4689
+Minangkabau,Air,2024,2,Feb,8229
+Minangkabau,Air,2024,3,Mar,2976
+Minangkabau,Air,2024,4,Apr,7166
+Minangkabau,Air,2024,5,May,7107
+Minangkabau,Air,2024,6,Jun,4561
+Minangkabau,Air,2024,7,Jul,5936
+Minangkabau,Air,2024,8,Aug,6685
+Minangkabau,Air,2024,9,Sep,8232
+Minangkabau,Air,2024,10,Oct,7511
+Minangkabau,Air,2024,11,Nov,6041
+Minangkabau,Air,2024,12,Dec,7550
+Minangkabau,Air,2025,1,Jan,8490
+Minangkabau,Air,2025,2,Feb,7810
+Minangkabau,Air,2025,3,Mar,3649
+Minangkabau,Air,2025,4,Apr,6270
+Minangkabau,Air,2025,5,May,8312
+Minangkabau,Air,2025,6,Jun,8621
+Minangkabau,Air,2025,7,Jul,7674
+Minangkabau,Air,2025,8,Aug,8216
+Minangkabau,Air,2025,9,Sep,9699
+Minangkabau,Air,2025,10,Oct,7588
+Minangkabau,Air,2025,11,Nov,6611
+Minangkabau,Air,2025,12,Dec,7081
+Sultan Syarif Kasim II,Air,2023,1,Jan,1624
+Sultan Syarif Kasim II,Air,2023,2,Feb,1914
+Sultan Syarif Kasim II,Air,2023,3,Mar,1697
+Sultan Syarif Kasim II,Air,2023,4,Apr,2453
+Sultan Syarif Kasim II,Air,2023,5,May,2293
+Sultan Syarif Kasim II,Air,2023,6,Jun,2447
+Sultan Syarif Kasim II,Air,2023,7,Jul,2111
+Sultan Syarif Kasim II,Air,2023,8,Aug,2770
+Sultan Syarif Kasim II,Air,2023,9,Sep,2166
+Sultan Syarif Kasim II,Air,2023,10,Oct,2377
+Sultan Syarif Kasim II,Air,2023,11,Nov,2921
+Sultan Syarif Kasim II,Air,2023,12,Dec,2964
+Sultan Syarif Kasim II,Air,2024,1,Jan,2126
+Sultan Syarif Kasim II,Air,2024,2,Feb,3709
+Sultan Syarif Kasim II,Air,2024,3,Mar,2081
+Sultan Syarif Kasim II,Air,2024,4,Apr,3996
+Sultan Syarif Kasim II,Air,2024,5,May,2849
+Sultan Syarif Kasim II,Air,2024,6,Jun,4637
+Sultan Syarif Kasim II,Air,2024,7,Jul,2516
+Sultan Syarif Kasim II,Air,2024,8,Aug,3940
+Sultan Syarif Kasim II,Air,2024,9,Sep,3320
+Sultan Syarif Kasim II,Air,2024,10,Oct,2637
+Sultan Syarif Kasim II,Air,2024,11,Nov,2485
+Sultan Syarif Kasim II,Air,2024,12,Dec,2800
+Sultan Syarif Kasim II,Air,2025,1,Jan,2684
+Sultan Syarif Kasim II,Air,2025,2,Feb,2446
+Sultan Syarif Kasim II,Air,2025,3,Mar,2612
+Sultan Syarif Kasim II,Air,2025,4,Apr,2793
+Sultan Syarif Kasim II,Air,2025,5,May,3277
+Sultan Syarif Kasim II,Air,2025,6,Jun,3443
+Sultan Syarif Kasim II,Air,2025,7,Jul,2688
+Sultan Syarif Kasim II,Air,2025,8,Aug,3201
+Sultan Syarif Kasim II,Air,2025,9,Sep,3938
+Sultan Syarif Kasim II,Air,2025,10,Oct,3091
+Sultan Syarif Kasim II,Air,2025,11,Nov,3210
+Sultan Syarif Kasim II,Air,2025,12,Dec,3775
+Sultan Iskandar Muda,Air,2023,1,Jan,1440
+Sultan Iskandar Muda,Air,2023,2,Feb,2024
+Sultan Iskandar Muda,Air,2023,3,Mar,1901
+Sultan Iskandar Muda,Air,2023,4,Apr,1349
+Sultan Iskandar Muda,Air,2023,5,May,2350
+Sultan Iskandar Muda,Air,2023,6,Jun,2157
+Sultan Iskandar Muda,Air,2023,7,Jul,2582
+Sultan Iskandar Muda,Air,2023,8,Aug,3108
+Sultan Iskandar Muda,Air,2023,9,Sep,2481
+Sultan Iskandar Muda,Air,2023,10,Oct,1875
+Sultan Iskandar Muda,Air,2023,11,Nov,2577
+Sultan Iskandar Muda,Air,2023,12,Dec,3461
+Sultan Iskandar Muda,Air,2024,1,Jan,2379
+Sultan Iskandar Muda,Air,2024,2,Feb,4421
+Sultan Iskandar Muda,Air,2024,3,Mar,1582
+Sultan Iskandar Muda,Air,2024,4,Apr,2533
+Sultan Iskandar Muda,Air,2024,5,May,2050
+Sultan Iskandar Muda,Air,2024,6,Jun,2080
+Sultan Iskandar Muda,Air,2024,7,Jul,2489
+Sultan Iskandar Muda,Air,2024,8,Aug,3042
+Sultan Iskandar Muda,Air,2024,9,Sep,3909
+Sultan Iskandar Muda,Air,2024,10,Oct,3237
+Sultan Iskandar Muda,Air,2024,11,Nov,2534
+Sultan Iskandar Muda,Air,2024,12,Dec,3598
+Sultan Iskandar Muda,Air,2025,1,Jan,3811
+Sultan Iskandar Muda,Air,2025,2,Feb,3825
+Sultan Iskandar Muda,Air,2025,3,Mar,1512
+Sultan Iskandar Muda,Air,2025,4,Apr,2184
+Sultan Iskandar Muda,Air,2025,5,May,4003
+Sultan Iskandar Muda,Air,2025,6,Jun,3607
+Sultan Iskandar Muda,Air,2025,7,Jul,4088
+Sultan Iskandar Muda,Air,2025,8,Aug,4305
+Sultan Iskandar Muda,Air,2025,9,Sep,5390
+Sultan Iskandar Muda,Air,2025,10,Oct,4257
+Sultan Iskandar Muda,Air,2025,11,Nov,3627
+Sultan Iskandar Muda,Air,2025,12,Dec,4217
+Ahmad Yani,Air,2023,1,Jan,1
+Ahmad Yani,Air,2023,2,Feb,1
+Ahmad Yani,Air,2023,3,Mar,1
+Ahmad Yani,Air,2023,4,Apr,0
+Ahmad Yani,Air,2023,5,May,0
+Ahmad Yani,Air,2023,6,Jun,0
+Ahmad Yani,Air,2023,7,Jul,0
+Ahmad Yani,Air,2023,8,Aug,0
+Ahmad Yani,Air,2023,9,Sep,8
+Ahmad Yani,Air,2023,10,Oct,0
+Ahmad Yani,Air,2023,11,Nov,0
+Ahmad Yani,Air,2023,12,Dec,0
+Ahmad Yani,Air,2024,1,Jan,0
+Ahmad Yani,Air,2024,2,Feb,2
+Ahmad Yani,Air,2024,3,Mar,0
+Ahmad Yani,Air,2024,4,Apr,0
+Ahmad Yani,Air,2024,5,May,0
+Ahmad Yani,Air,2024,6,Jun,0
+Ahmad Yani,Air,2024,7,Jul,0
+Ahmad Yani,Air,2024,8,Aug,0
+Ahmad Yani,Air,2024,9,Sep,0
+Ahmad Yani,Air,2024,10,Oct,0
+Ahmad Yani,Air,2024,11,Nov,0
+Ahmad Yani,Air,2024,12,Dec,0
+Ahmad Yani,Air,2025,1,Jan,0
+Ahmad Yani,Air,2025,2,Feb,0
+Ahmad Yani,Air,2025,3,Mar,0
+Ahmad Yani,Air,2025,4,Apr,0
+Ahmad Yani,Air,2025,5,May,0
+Ahmad Yani,Air,2025,6,Jun,4
+Ahmad Yani,Air,2025,7,Jul,11
+Ahmad Yani,Air,2025,8,Aug,0
+Ahmad Yani,Air,2025,9,Sep,1381
+Ahmad Yani,Air,2025,10,Oct,1618
+Ahmad Yani,Air,2025,11,Nov,1365
+Ahmad Yani,Air,2025,12,Dec,1627
+Supadio,Air,2023,1,Jan,0
+Supadio,Air,2023,2,Feb,1
+Supadio,Air,2023,3,Mar,0
+Supadio,Air,2023,4,Apr,0
+Supadio,Air,2023,5,May,0
+Supadio,Air,2023,6,Jun,0
+Supadio,Air,2023,7,Jul,0
+Supadio,Air,2023,8,Aug,0
+Supadio,Air,2023,9,Sep,0
+Supadio,Air,2023,10,Oct,0
+Supadio,Air,2023,11,Nov,0
+Supadio,Air,2023,12,Dec,2
+Supadio,Air,2024,1,Jan,0
+Supadio,Air,2024,2,Feb,0
+Supadio,Air,2024,3,Mar,0
+Supadio,Air,2024,4,Apr,0
+Supadio,Air,2024,5,May,0
+Supadio,Air,2024,6,Jun,0
+Supadio,Air,2024,7,Jul,0
+Supadio,Air,2024,8,Aug,0
+Supadio,Air,2024,9,Sep,5
+Supadio,Air,2024,10,Oct,3
+Supadio,Air,2024,11,Nov,0
+Supadio,Air,2024,12,Dec,0
+Supadio,Air,2025,1,Jan,1
+Supadio,Air,2025,2,Feb,0
+Supadio,Air,2025,3,Mar,0
+Supadio,Air,2025,4,Apr,0
+Supadio,Air,2025,5,May,0
+Supadio,Air,2025,6,Jun,0
+Supadio,Air,2025,7,Jul,29
+Supadio,Air,2025,8,Aug,0
+Supadio,Air,2025,9,Sep,1838
+Supadio,Air,2025,10,Oct,1674
+Supadio,Air,2025,11,Nov,1693
+Supadio,Air,2025,12,Dec,2371
+Hasanuddin,Air,2023,1,Jan,1066
+Hasanuddin,Air,2023,2,Feb,1469
+Hasanuddin,Air,2023,3,Mar,921
+Hasanuddin,Air,2023,4,Apr,1564
+Hasanuddin,Air,2023,5,May,1432
+Hasanuddin,Air,2023,6,Jun,1888
+Hasanuddin,Air,2023,7,Jul,1755
+Hasanuddin,Air,2023,8,Aug,1609
+Hasanuddin,Air,2023,9,Sep,1787
+Hasanuddin,Air,2023,10,Oct,1175
+Hasanuddin,Air,2023,11,Nov,1194
+Hasanuddin,Air,2023,12,Dec,1500
+Hasanuddin,Air,2024,1,Jan,742
+Hasanuddin,Air,2024,2,Feb,1408
+Hasanuddin,Air,2024,3,Mar,579
+Hasanuddin,Air,2024,4,Apr,1402
+Hasanuddin,Air,2024,5,May,1066
+Hasanuddin,Air,2024,6,Jun,1092
+Hasanuddin,Air,2024,7,Jul,1532
+Hasanuddin,Air,2024,8,Aug,1427
+Hasanuddin,Air,2024,9,Sep,1326
+Hasanuddin,Air,2024,10,Oct,1091
+Hasanuddin,Air,2024,11,Nov,947
+Hasanuddin,Air,2024,12,Dec,1085
+Hasanuddin,Air,2025,1,Jan,1203
+Hasanuddin,Air,2025,2,Feb,979
+Hasanuddin,Air,2025,3,Mar,1300
+Hasanuddin,Air,2025,4,Apr,827
+Hasanuddin,Air,2025,5,May,1468
+Hasanuddin,Air,2025,6,Jun,1959
+Hasanuddin,Air,2025,7,Jul,1781
+Hasanuddin,Air,2025,8,Aug,1814
+Hasanuddin,Air,2025,9,Sep,1594
+Hasanuddin,Air,2025,10,Oct,1565
+Hasanuddin,Air,2025,11,Nov,1306
+Hasanuddin,Air,2025,12,Dec,2321
+Sultan Badaruddin II,Air,2023,1,Jan,0
+Sultan Badaruddin II,Air,2023,2,Feb,1
+Sultan Badaruddin II,Air,2023,3,Mar,1
+Sultan Badaruddin II,Air,2023,4,Apr,0
+Sultan Badaruddin II,Air,2023,5,May,0
+Sultan Badaruddin II,Air,2023,6,Jun,0
+Sultan Badaruddin II,Air,2023,7,Jul,11
+Sultan Badaruddin II,Air,2023,8,Aug,4
+Sultan Badaruddin II,Air,2023,9,Sep,0
+Sultan Badaruddin II,Air,2023,10,Oct,0
+Sultan Badaruddin II,Air,2023,11,Nov,1
+Sultan Badaruddin II,Air,2023,12,Dec,6
+Sultan Badaruddin II,Air,2024,1,Jan,0
+Sultan Badaruddin II,Air,2024,2,Feb,2
+Sultan Badaruddin II,Air,2024,3,Mar,2
+Sultan Badaruddin II,Air,2024,4,Apr,0
+Sultan Badaruddin II,Air,2024,5,May,5
+Sultan Badaruddin II,Air,2024,6,Jun,0
+Sultan Badaruddin II,Air,2024,7,Jul,15
+Sultan Badaruddin II,Air,2024,8,Aug,11
+Sultan Badaruddin II,Air,2024,9,Sep,0
+Sultan Badaruddin II,Air,2024,10,Oct,0
+Sultan Badaruddin II,Air,2024,11,Nov,0
+Sultan Badaruddin II,Air,2024,12,Dec,2
+Sultan Badaruddin II,Air,2025,1,Jan,0
+Sultan Badaruddin II,Air,2025,2,Feb,0
+Sultan Badaruddin II,Air,2025,3,Mar,4
+Sultan Badaruddin II,Air,2025,4,Apr,1
+Sultan Badaruddin II,Air,2025,5,May,11
+Sultan Badaruddin II,Air,2025,6,Jun,2
+Sultan Badaruddin II,Air,2025,7,Jul,204
+Sultan Badaruddin II,Air,2025,8,Aug,1138
+Sultan Badaruddin II,Air,2025,9,Sep,933
+Sultan Badaruddin II,Air,2025,10,Oct,834
+Sultan Badaruddin II,Air,2025,11,Nov,1110
+Sultan Badaruddin II,Air,2025,12,Dec,837
+Pintu Udara Lainnya,Air,2023,1,Jan,672
+Pintu Udara Lainnya,Air,2023,2,Feb,645
+Pintu Udara Lainnya,Air,2023,3,Mar,953
+Pintu Udara Lainnya,Air,2023,4,Apr,889
+Pintu Udara Lainnya,Air,2023,5,May,1543
+Pintu Udara Lainnya,Air,2023,6,Jun,1341
+Pintu Udara Lainnya,Air,2023,7,Jul,2376
+Pintu Udara Lainnya,Air,2023,8,Aug,1796
+Pintu Udara Lainnya,Air,2023,9,Sep,1840
+Pintu Udara Lainnya,Air,2023,10,Oct,1518
+Pintu Udara Lainnya,Air,2023,11,Nov,1585
+Pintu Udara Lainnya,Air,2023,12,Dec,1831
+Pintu Udara Lainnya,Air,2024,1,Jan,1941
+Pintu Udara Lainnya,Air,2024,2,Feb,2432
+Pintu Udara Lainnya,Air,2024,3,Mar,1376
+Pintu Udara Lainnya,Air,2024,4,Apr,1711
+Pintu Udara Lainnya,Air,2024,5,May,2396
+Pintu Udara Lainnya,Air,2024,6,Jun,2092
+Pintu Udara Lainnya,Air,2024,7,Jul,3170
+Pintu Udara Lainnya,Air,2024,8,Aug,2842
+Pintu Udara Lainnya,Air,2024,9,Sep,3882
+Pintu Udara Lainnya,Air,2024,10,Oct,4224
+Pintu Udara Lainnya,Air,2024,11,Nov,3901
+Pintu Udara Lainnya,Air,2024,12,Dec,4347
+Pintu Udara Lainnya,Air,2025,1,Jan,3231
+Pintu Udara Lainnya,Air,2025,2,Feb,3571
+Pintu Udara Lainnya,Air,2025,3,Mar,3758
+Pintu Udara Lainnya,Air,2025,4,Apr,5317
+Pintu Udara Lainnya,Air,2025,5,May,6381
+Pintu Udara Lainnya,Air,2025,6,Jun,6311
+Pintu Udara Lainnya,Air,2025,7,Jul,7243
+Pintu Udara Lainnya,Air,2025,8,Aug,5969
+Pintu Udara Lainnya,Air,2025,9,Sep,5195
+Pintu Udara Lainnya,Air,2025,10,Oct,5074
+Pintu Udara Lainnya,Air,2025,11,Nov,5353
+Pintu Udara Lainnya,Air,2025,12,Dec,6069
+Batam,Sea,2023,1,Jan,93781
+Batam,Sea,2023,2,Feb,73090
+Batam,Sea,2023,3,Mar,97040
+Batam,Sea,2023,4,Apr,88776
+Batam,Sea,2023,5,May,76577
+Batam,Sea,2023,6,Jun,133616
+Batam,Sea,2023,7,Jul,94373
+Batam,Sea,2023,8,Aug,94601
+Batam,Sea,2023,9,Sep,101470
+Batam,Sea,2023,10,Oct,79646
+Batam,Sea,2023,11,Nov,103497
+Batam,Sea,2023,12,Dec,149218
+Batam,Sea,2024,1,Jan,77836
+Batam,Sea,2024,2,Feb,111758
+Batam,Sea,2024,3,Mar,104191
+Batam,Sea,2024,4,Apr,78674
+Batam,Sea,2024,5,May,99404
+Batam,Sea,2024,6,Jun,130714
+Batam,Sea,2024,7,Jul,100295
+Batam,Sea,2024,8,Aug,119550
+Batam,Sea,2024,9,Sep,114682
+Batam,Sea,2024,10,Oct,109864
+Batam,Sea,2024,11,Nov,111306
+Batam,Sea,2024,12,Dec,157945
+Batam,Sea,2025,1,Jan,123223
+Batam,Sea,2025,2,Feb,103491
+Batam,Sea,2025,3,Mar,99412
+Batam,Sea,2025,4,Apr,99257
+Batam,Sea,2025,5,May,139491
+Batam,Sea,2025,6,Jun,166223
+Batam,Sea,2025,7,Jul,121487
+Batam,Sea,2025,8,Aug,144698
+Batam,Sea,2025,9,Sep,140073
+Batam,Sea,2025,10,Oct,137435
+Batam,Sea,2025,11,Nov,125503
+Batam,Sea,2025,12,Dec,193464
+Tanjung Uban,Sea,2023,1,Jan,14957
+Tanjung Uban,Sea,2023,2,Feb,11265
+Tanjung Uban,Sea,2023,3,Mar,19018
+Tanjung Uban,Sea,2023,4,Apr,18547
+Tanjung Uban,Sea,2023,5,May,15001
+Tanjung Uban,Sea,2023,6,Jun,26345
+Tanjung Uban,Sea,2023,7,Jul,17619
+Tanjung Uban,Sea,2023,8,Aug,19237
+Tanjung Uban,Sea,2023,9,Sep,20542
+Tanjung Uban,Sea,2023,10,Oct,16838
+Tanjung Uban,Sea,2023,11,Nov,16544
+Tanjung Uban,Sea,2023,12,Dec,26205
+Tanjung Uban,Sea,2024,1,Jan,11442
+Tanjung Uban,Sea,2024,2,Feb,18432
+Tanjung Uban,Sea,2024,3,Mar,20741
+Tanjung Uban,Sea,2024,4,Apr,14202
+Tanjung Uban,Sea,2024,5,May,14974
+Tanjung Uban,Sea,2024,6,Jun,22829
+Tanjung Uban,Sea,2024,7,Jul,16210
+Tanjung Uban,Sea,2024,8,Aug,20655
+Tanjung Uban,Sea,2024,9,Sep,16058
+Tanjung Uban,Sea,2024,10,Oct,15916
+Tanjung Uban,Sea,2024,11,Nov,14933
+Tanjung Uban,Sea,2024,12,Dec,22213
+Tanjung Uban,Sea,2025,1,Jan,15791
+Tanjung Uban,Sea,2025,2,Feb,9815
+Tanjung Uban,Sea,2025,3,Mar,17619
+Tanjung Uban,Sea,2025,4,Apr,15254
+Tanjung Uban,Sea,2025,5,May,20284
+Tanjung Uban,Sea,2025,6,Jun,32073
+Tanjung Uban,Sea,2025,7,Jul,21939
+Tanjung Uban,Sea,2025,8,Aug,24930
+Tanjung Uban,Sea,2025,9,Sep,20974
+Tanjung Uban,Sea,2025,10,Oct,22633
+Tanjung Uban,Sea,2025,11,Nov,16867
+Tanjung Uban,Sea,2025,12,Dec,35187
+Tanjung Pinang,Sea,2023,1,Jan,4973
+Tanjung Pinang,Sea,2023,2,Feb,2663
+Tanjung Pinang,Sea,2023,3,Mar,4043
+Tanjung Pinang,Sea,2023,4,Apr,5324
+Tanjung Pinang,Sea,2023,5,May,3391
+Tanjung Pinang,Sea,2023,6,Jun,6086
+Tanjung Pinang,Sea,2023,7,Jul,4010
+Tanjung Pinang,Sea,2023,8,Aug,4222
+Tanjung Pinang,Sea,2023,9,Sep,4827
+Tanjung Pinang,Sea,2023,10,Oct,5065
+Tanjung Pinang,Sea,2023,11,Nov,5912
+Tanjung Pinang,Sea,2023,12,Dec,7022
+Tanjung Pinang,Sea,2024,1,Jan,2803
+Tanjung Pinang,Sea,2024,2,Feb,5921
+Tanjung Pinang,Sea,2024,3,Mar,4868
+Tanjung Pinang,Sea,2024,4,Apr,2614
+Tanjung Pinang,Sea,2024,5,May,3904
+Tanjung Pinang,Sea,2024,6,Jun,6135
+Tanjung Pinang,Sea,2024,7,Jul,3573
+Tanjung Pinang,Sea,2024,8,Aug,5948
+Tanjung Pinang,Sea,2024,9,Sep,4898
+Tanjung Pinang,Sea,2024,10,Oct,4632
+Tanjung Pinang,Sea,2024,11,Nov,4388
+Tanjung Pinang,Sea,2024,12,Dec,5788
+Tanjung Pinang,Sea,2025,1,Jan,5583
+Tanjung Pinang,Sea,2025,2,Feb,4095
+Tanjung Pinang,Sea,2025,3,Mar,5218
+Tanjung Pinang,Sea,2025,4,Apr,4995
+Tanjung Pinang,Sea,2025,5,May,6071
+Tanjung Pinang,Sea,2025,6,Jun,6603
+Tanjung Pinang,Sea,2025,7,Jul,4620
+Tanjung Pinang,Sea,2025,8,Aug,4909
+Tanjung Pinang,Sea,2025,9,Sep,4971
+Tanjung Pinang,Sea,2025,10,Oct,5285
+Tanjung Pinang,Sea,2025,11,Nov,4880
+Tanjung Pinang,Sea,2025,12,Dec,6076
+Tanjung Balai Karimun,Sea,2023,1,Jan,5814
+Tanjung Balai Karimun,Sea,2023,2,Feb,4795
+Tanjung Balai Karimun,Sea,2023,3,Mar,4835
+Tanjung Balai Karimun,Sea,2023,4,Apr,5801
+Tanjung Balai Karimun,Sea,2023,5,May,3590
+Tanjung Balai Karimun,Sea,2023,6,Jun,4734
+Tanjung Balai Karimun,Sea,2023,7,Jul,4391
+Tanjung Balai Karimun,Sea,2023,8,Aug,4173
+Tanjung Balai Karimun,Sea,2023,9,Sep,4345
+Tanjung Balai Karimun,Sea,2023,10,Oct,4298
+Tanjung Balai Karimun,Sea,2023,11,Nov,4683
+Tanjung Balai Karimun,Sea,2023,12,Dec,6634
+Tanjung Balai Karimun,Sea,2024,1,Jan,4050
+Tanjung Balai Karimun,Sea,2024,2,Feb,7747
+Tanjung Balai Karimun,Sea,2024,3,Mar,5039
+Tanjung Balai Karimun,Sea,2024,4,Apr,6899
+Tanjung Balai Karimun,Sea,2024,5,May,5292
+Tanjung Balai Karimun,Sea,2024,6,Jun,6436
+Tanjung Balai Karimun,Sea,2024,7,Jul,5476
+Tanjung Balai Karimun,Sea,2024,8,Aug,6555
+Tanjung Balai Karimun,Sea,2024,9,Sep,6814
+Tanjung Balai Karimun,Sea,2024,10,Oct,6770
+Tanjung Balai Karimun,Sea,2024,11,Nov,6911
+Tanjung Balai Karimun,Sea,2024,12,Dec,7649
+Tanjung Balai Karimun,Sea,2025,1,Jan,8038
+Tanjung Balai Karimun,Sea,2025,2,Feb,7099
+Tanjung Balai Karimun,Sea,2025,3,Mar,5773
+Tanjung Balai Karimun,Sea,2025,4,Apr,6137
+Tanjung Balai Karimun,Sea,2025,5,May,9131
+Tanjung Balai Karimun,Sea,2025,6,Jun,9531
+Tanjung Balai Karimun,Sea,2025,7,Jul,7927
+Tanjung Balai Karimun,Sea,2025,8,Aug,8272
+Tanjung Balai Karimun,Sea,2025,9,Sep,8364
+Tanjung Balai Karimun,Sea,2025,10,Oct,8541
+Tanjung Balai Karimun,Sea,2025,11,Nov,7938
+Tanjung Balai Karimun,Sea,2025,12,Dec,10212
+Tanjung Benoa,Sea,2023,1,Jan,1876
+Tanjung Benoa,Sea,2023,2,Feb,6505
+Tanjung Benoa,Sea,2023,3,Mar,3738
+Tanjung Benoa,Sea,2023,4,Apr,1229
+Tanjung Benoa,Sea,2023,5,May,21
+Tanjung Benoa,Sea,2023,6,Jun,71
+Tanjung Benoa,Sea,2023,7,Jul,81
+Tanjung Benoa,Sea,2023,8,Aug,78
+Tanjung Benoa,Sea,2023,9,Sep,53
+Tanjung Benoa,Sea,2023,10,Oct,2596
+Tanjung Benoa,Sea,2023,11,Nov,5632
+Tanjung Benoa,Sea,2023,12,Dec,801
+Tanjung Benoa,Sea,2024,1,Jan,853
+Tanjung Benoa,Sea,2024,2,Feb,879
+Tanjung Benoa,Sea,2024,3,Mar,5423
+Tanjung Benoa,Sea,2024,4,Apr,324
+Tanjung Benoa,Sea,2024,5,May,109
+Tanjung Benoa,Sea,2024,6,Jun,106
+Tanjung Benoa,Sea,2024,7,Jul,95
+Tanjung Benoa,Sea,2024,8,Aug,3100
+Tanjung Benoa,Sea,2024,9,Sep,2061
+Tanjung Benoa,Sea,2024,10,Oct,5019
+Tanjung Benoa,Sea,2024,11,Nov,186
+Tanjung Benoa,Sea,2024,12,Dec,53
+Tanjung Benoa,Sea,2025,1,Jan,976
+Tanjung Benoa,Sea,2025,2,Feb,2219
+Tanjung Benoa,Sea,2025,3,Mar,6154
+Tanjung Benoa,Sea,2025,4,Apr,3906
+Tanjung Benoa,Sea,2025,5,May,158
+Tanjung Benoa,Sea,2025,6,Jun,124
+Tanjung Benoa,Sea,2025,7,Jul,39
+Tanjung Benoa,Sea,2025,8,Aug,27
+Tanjung Benoa,Sea,2025,9,Sep,667
+Tanjung Benoa,Sea,2025,10,Oct,7
+Tanjung Benoa,Sea,2025,11,Nov,6857
+Tanjung Benoa,Sea,2025,12,Dec,6844
+Tanjung Mas,Sea,2023,1,Jan,0
+Tanjung Mas,Sea,2023,2,Feb,0
+Tanjung Mas,Sea,2023,3,Mar,0
+Tanjung Mas,Sea,2023,4,Apr,0
+Tanjung Mas,Sea,2023,5,May,0
+Tanjung Mas,Sea,2023,6,Jun,0
+Tanjung Mas,Sea,2023,7,Jul,0
+Tanjung Mas,Sea,2023,8,Aug,0
+Tanjung Mas,Sea,2023,9,Sep,0
+Tanjung Mas,Sea,2023,10,Oct,0
+Tanjung Mas,Sea,2023,11,Nov,0
+Tanjung Mas,Sea,2023,12,Dec,0
+Tanjung Mas,Sea,2024,1,Jan,0
+Tanjung Mas,Sea,2024,2,Feb,0
+Tanjung Mas,Sea,2024,3,Mar,0
+Tanjung Mas,Sea,2024,4,Apr,0
+Tanjung Mas,Sea,2024,5,May,0
+Tanjung Mas,Sea,2024,6,Jun,0
+Tanjung Mas,Sea,2024,7,Jul,0
+Tanjung Mas,Sea,2024,8,Aug,0
+Tanjung Mas,Sea,2024,9,Sep,0
+Tanjung Mas,Sea,2024,10,Oct,0
+Tanjung Mas,Sea,2024,11,Nov,565
+Tanjung Mas,Sea,2024,12,Dec,1302
+Tanjung Mas,Sea,2025,1,Jan,640
+Tanjung Mas,Sea,2025,2,Feb,0
+Tanjung Mas,Sea,2025,3,Mar,1129
+Tanjung Mas,Sea,2025,4,Apr,535
+Tanjung Mas,Sea,2025,5,May,0
+Tanjung Mas,Sea,2025,6,Jun,619
+Tanjung Mas,Sea,2025,7,Jul,0
+Tanjung Mas,Sea,2025,8,Aug,0
+Tanjung Mas,Sea,2025,9,Sep,0
+Tanjung Mas,Sea,2025,10,Oct,0
+Tanjung Mas,Sea,2025,11,Nov,1722
+Tanjung Mas,Sea,2025,12,Dec,0
+Pintu Laut Lainnya,Sea,2023,1,Jan,103450
+Pintu Laut Lainnya,Sea,2023,2,Feb,92745
+Pintu Laut Lainnya,Sea,2023,3,Mar,107507
+Pintu Laut Lainnya,Sea,2023,4,Apr,115983
+Pintu Laut Lainnya,Sea,2023,5,May,115746
+Pintu Laut Lainnya,Sea,2023,6,Jun,105187
+Pintu Laut Lainnya,Sea,2023,7,Jul,104632
+Pintu Laut Lainnya,Sea,2023,8,Aug,97888
+Pintu Laut Lainnya,Sea,2023,9,Sep,81533
+Pintu Laut Lainnya,Sea,2023,10,Oct,77718
+Pintu Laut Lainnya,Sea,2023,11,Nov,53990
+Pintu Laut Lainnya,Sea,2023,12,Dec,101883
+Pintu Laut Lainnya,Sea,2024,1,Jan,101088
+Pintu Laut Lainnya,Sea,2024,2,Feb,94981
+Pintu Laut Lainnya,Sea,2024,3,Mar,111751
+Pintu Laut Lainnya,Sea,2024,4,Apr,109003
+Pintu Laut Lainnya,Sea,2024,5,May,89035
+Pintu Laut Lainnya,Sea,2024,6,Jun,94945
+Pintu Laut Lainnya,Sea,2024,7,Jul,86784
+Pintu Laut Lainnya,Sea,2024,8,Aug,92950
+Pintu Laut Lainnya,Sea,2024,9,Sep,87235
+Pintu Laut Lainnya,Sea,2024,10,Oct,76419
+Pintu Laut Lainnya,Sea,2024,11,Nov,85004
+Pintu Laut Lainnya,Sea,2024,12,Dec,69742
+Pintu Laut Lainnya,Sea,2025,1,Jan,78016
+Pintu Laut Lainnya,Sea,2025,2,Feb,76731
+Pintu Laut Lainnya,Sea,2025,3,Mar,71092
+Pintu Laut Lainnya,Sea,2025,4,Apr,70466
+Pintu Laut Lainnya,Sea,2025,5,May,69034
+Pintu Laut Lainnya,Sea,2025,6,Jun,92642
+Pintu Laut Lainnya,Sea,2025,7,Jul,86587
+Pintu Laut Lainnya,Sea,2025,8,Aug,80204
+Pintu Laut Lainnya,Sea,2025,9,Sep,89644
+Pintu Laut Lainnya,Sea,2025,10,Oct,86223
+Pintu Laut Lainnya,Sea,2025,11,Nov,86399
+Pintu Laut Lainnya,Sea,2025,12,Dec,101794
+Jayapura,Land,2023,1,Jan,132
+Jayapura,Land,2023,2,Feb,86
+Jayapura,Land,2023,3,Mar,106
+Jayapura,Land,2023,4,Apr,91
+Jayapura,Land,2023,5,May,8251
+Jayapura,Land,2023,6,Jun,9933
+Jayapura,Land,2023,7,Jul,7723
+Jayapura,Land,2023,8,Aug,8335
+Jayapura,Land,2023,9,Sep,8408
+Jayapura,Land,2023,10,Oct,9174
+Jayapura,Land,2023,11,Nov,3729
+Jayapura,Land,2023,12,Dec,11445
+Jayapura,Land,2024,1,Jan,8254
+Jayapura,Land,2024,2,Feb,6903
+Jayapura,Land,2024,3,Mar,6515
+Jayapura,Land,2024,4,Apr,7129
+Jayapura,Land,2024,5,May,7305
+Jayapura,Land,2024,6,Jun,8577
+Jayapura,Land,2024,7,Jul,8544
+Jayapura,Land,2024,8,Aug,9481
+Jayapura,Land,2024,9,Sep,11649
+Jayapura,Land,2024,10,Oct,10715
+Jayapura,Land,2024,11,Nov,11188
+Jayapura,Land,2024,12,Dec,14613
+Jayapura,Land,2025,1,Jan,12617
+Jayapura,Land,2025,2,Feb,11015
+Jayapura,Land,2025,3,Mar,5943
+Jayapura,Land,2025,4,Apr,9296
+Jayapura,Land,2025,5,May,9107
+Jayapura,Land,2025,6,Jun,10569
+Jayapura,Land,2025,7,Jul,11553
+Jayapura,Land,2025,8,Aug,10344
+Jayapura,Land,2025,9,Sep,12494
+Jayapura,Land,2025,10,Oct,11274
+Jayapura,Land,2025,11,Nov,11230
+Jayapura,Land,2025,12,Dec,17405
+Atambua,Land,2023,1,Jan,2514
+Atambua,Land,2023,2,Feb,4212
+Atambua,Land,2023,3,Mar,7016
+Atambua,Land,2023,4,Apr,7322
+Atambua,Land,2023,5,May,6651
+Atambua,Land,2023,6,Jun,8267
+Atambua,Land,2023,7,Jul,8198
+Atambua,Land,2023,8,Aug,11895
+Atambua,Land,2023,9,Sep,8942
+Atambua,Land,2023,10,Oct,9700
+Atambua,Land,2023,11,Nov,8838
+Atambua,Land,2023,12,Dec,12678
+Atambua,Land,2024,1,Jan,8426
+Atambua,Land,2024,2,Feb,7423
+Atambua,Land,2024,3,Mar,8958
+Atambua,Land,2024,4,Apr,9209
+Atambua,Land,2024,5,May,9670
+Atambua,Land,2024,6,Jun,11141
+Atambua,Land,2024,7,Jul,11847
+Atambua,Land,2024,8,Aug,10029
+Atambua,Land,2024,9,Sep,8384
+Atambua,Land,2024,10,Oct,13025
+Atambua,Land,2024,11,Nov,16360
+Atambua,Land,2024,12,Dec,18751
+Atambua,Land,2025,1,Jan,11445
+Atambua,Land,2025,2,Feb,10244
+Atambua,Land,2025,3,Mar,13058
+Atambua,Land,2025,4,Apr,14292
+Atambua,Land,2025,5,May,15441
+Atambua,Land,2025,6,Jun,17380
+Atambua,Land,2025,7,Jul,21031
+Atambua,Land,2025,8,Aug,20318
+Atambua,Land,2025,9,Sep,18282
+Atambua,Land,2025,10,Oct,21420
+Atambua,Land,2025,11,Nov,20476
+Atambua,Land,2025,12,Dec,29738
+Entikong,Land,2023,1,Jan,2508
+Entikong,Land,2023,2,Feb,2725
+Entikong,Land,2023,3,Mar,2905
+Entikong,Land,2023,4,Apr,2929
+Entikong,Land,2023,5,May,2856
+Entikong,Land,2023,6,Jun,2819
+Entikong,Land,2023,7,Jul,2639
+Entikong,Land,2023,8,Aug,3488
+Entikong,Land,2023,9,Sep,2418
+Entikong,Land,2023,10,Oct,2274
+Entikong,Land,2023,11,Nov,2364
+Entikong,Land,2023,12,Dec,4522
+Entikong,Land,2024,1,Jan,2366
+Entikong,Land,2024,2,Feb,4380
+Entikong,Land,2024,3,Mar,2540
+Entikong,Land,2024,4,Apr,4042
+Entikong,Land,2024,5,May,3737
+Entikong,Land,2024,6,Jun,2819
+Entikong,Land,2024,7,Jul,3204
+Entikong,Land,2024,8,Aug,3191
+Entikong,Land,2024,9,Sep,4256
+Entikong,Land,2024,10,Oct,3331
+Entikong,Land,2024,11,Nov,2797
+Entikong,Land,2024,12,Dec,5017
+Entikong,Land,2025,1,Jan,4130
+Entikong,Land,2025,2,Feb,3482
+Entikong,Land,2025,3,Mar,2923
+Entikong,Land,2025,4,Apr,2719
+Entikong,Land,2025,5,May,5321
+Entikong,Land,2025,6,Jun,4734
+Entikong,Land,2025,7,Jul,3534
+Entikong,Land,2025,8,Aug,3803
+Entikong,Land,2025,9,Sep,4446
+Entikong,Land,2025,10,Oct,3135
+Entikong,Land,2025,11,Nov,2880
+Entikong,Land,2025,12,Dec,5269
+Aruk,Land,2023,1,Jan,2542
+Aruk,Land,2023,2,Feb,2503
+Aruk,Land,2023,3,Mar,2169
+Aruk,Land,2023,4,Apr,3592
+Aruk,Land,2023,5,May,2057
+Aruk,Land,2023,6,Jun,2755
+Aruk,Land,2023,7,Jul,1832
+Aruk,Land,2023,8,Aug,2653
+Aruk,Land,2023,9,Sep,1878
+Aruk,Land,2023,10,Oct,1721
+Aruk,Land,2023,11,Nov,1790
+Aruk,Land,2023,12,Dec,3605
+Aruk,Land,2024,1,Jan,1733
+Aruk,Land,2024,2,Feb,4433
+Aruk,Land,2024,3,Mar,2400
+Aruk,Land,2024,4,Apr,3521
+Aruk,Land,2024,5,May,2225
+Aruk,Land,2024,6,Jun,2878
+Aruk,Land,2024,7,Jul,2926
+Aruk,Land,2024,8,Aug,2819
+Aruk,Land,2024,9,Sep,3680
+Aruk,Land,2024,10,Oct,2376
+Aruk,Land,2024,11,Nov,2208
+Aruk,Land,2024,12,Dec,3787
+Aruk,Land,2025,1,Jan,3870
+Aruk,Land,2025,2,Feb,3482
+Aruk,Land,2025,3,Mar,3338
+Aruk,Land,2025,4,Apr,2583
+Aruk,Land,2025,5,May,3746
+Aruk,Land,2025,6,Jun,4858
+Aruk,Land,2025,7,Jul,2692
+Aruk,Land,2025,8,Aug,2973
+Aruk,Land,2025,9,Sep,3921
+Aruk,Land,2025,10,Oct,3097
+Aruk,Land,2025,11,Nov,2391
+Aruk,Land,2025,12,Dec,4038
+Nanga Badau,Land,2023,1,Jan,718
+Nanga Badau,Land,2023,2,Feb,615
+Nanga Badau,Land,2023,3,Mar,669
+Nanga Badau,Land,2023,4,Apr,735
+Nanga Badau,Land,2023,5,May,1324
+Nanga Badau,Land,2023,6,Jun,1045
+Nanga Badau,Land,2023,7,Jul,727
+Nanga Badau,Land,2023,8,Aug,628
+Nanga Badau,Land,2023,9,Sep,680
+Nanga Badau,Land,2023,10,Oct,674
+Nanga Badau,Land,2023,11,Nov,724
+Nanga Badau,Land,2023,12,Dec,1363
+Nanga Badau,Land,2024,1,Jan,687
+Nanga Badau,Land,2024,2,Feb,950
+Nanga Badau,Land,2024,3,Mar,965
+Nanga Badau,Land,2024,4,Apr,486
+Nanga Badau,Land,2024,5,May,833
+Nanga Badau,Land,2024,6,Jun,1028
+Nanga Badau,Land,2024,7,Jul,940
+Nanga Badau,Land,2024,8,Aug,892
+Nanga Badau,Land,2024,9,Sep,1116
+Nanga Badau,Land,2024,10,Oct,742
+Nanga Badau,Land,2024,11,Nov,732
+Nanga Badau,Land,2024,12,Dec,1493
+Nanga Badau,Land,2025,1,Jan,1143
+Nanga Badau,Land,2025,2,Feb,935
+Nanga Badau,Land,2025,3,Mar,974
+Nanga Badau,Land,2025,4,Apr,798
+Nanga Badau,Land,2025,5,May,1716
+Nanga Badau,Land,2025,6,Jun,1259
+Nanga Badau,Land,2025,7,Jul,1047
+Nanga Badau,Land,2025,8,Aug,1116
+Nanga Badau,Land,2025,9,Sep,991
+Nanga Badau,Land,2025,10,Oct,918
+Nanga Badau,Land,2025,11,Nov,816
+Nanga Badau,Land,2025,12,Dec,1782
+Pintu Darat Lainnya,Land,2023,1,Jan,80707
+Pintu Darat Lainnya,Land,2023,2,Feb,60783
+Pintu Darat Lainnya,Land,2023,3,Mar,65533
+Pintu Darat Lainnya,Land,2023,4,Apr,55048
+Pintu Darat Lainnya,Land,2023,5,May,59184
+Pintu Darat Lainnya,Land,2023,6,Jun,54457
+Pintu Darat Lainnya,Land,2023,7,Jul,55468
+Pintu Darat Lainnya,Land,2023,8,Aug,58994
+Pintu Darat Lainnya,Land,2023,9,Sep,57612
+Pintu Darat Lainnya,Land,2023,10,Oct,61231
+Pintu Darat Lainnya,Land,2023,11,Nov,66815
+Pintu Darat Lainnya,Land,2023,12,Dec,87873
+Pintu Darat Lainnya,Land,2024,1,Jan,76247
+Pintu Darat Lainnya,Land,2024,2,Feb,63270
+Pintu Darat Lainnya,Land,2024,3,Mar,86031
+Pintu Darat Lainnya,Land,2024,4,Apr,80770
+Pintu Darat Lainnya,Land,2024,5,May,73289
+Pintu Darat Lainnya,Land,2024,6,Jun,88679
+Pintu Darat Lainnya,Land,2024,7,Jul,76279
+Pintu Darat Lainnya,Land,2024,8,Aug,77229
+Pintu Darat Lainnya,Land,2024,9,Sep,76522
+Pintu Darat Lainnya,Land,2024,10,Oct,85311
+Pintu Darat Lainnya,Land,2024,11,Nov,78517
+Pintu Darat Lainnya,Land,2024,12,Dec,87412
+Pintu Darat Lainnya,Land,2025,1,Jan,88926
+Pintu Darat Lainnya,Land,2025,2,Feb,71677
+Pintu Darat Lainnya,Land,2025,3,Mar,82657
+Pintu Darat Lainnya,Land,2025,4,Apr,79545
+Pintu Darat Lainnya,Land,2025,5,May,85408
+Pintu Darat Lainnya,Land,2025,6,Jun,91552
+Pintu Darat Lainnya,Land,2025,7,Jul,97271
+Pintu Darat Lainnya,Land,2025,8,Aug,95493
+Pintu Darat Lainnya,Land,2025,9,Sep,93565
+Pintu Darat Lainnya,Land,2025,10,Oct,94809
+Pintu Darat Lainnya,Land,2025,11,Nov,105386
+Pintu Darat Lainnya,Land,2025,12,Dec,105387
