@@ -73,24 +73,6 @@ indonesia-tourism-analysis/
 
 ---
 
-## How to Run
-
-```bash
-# 1. Clone this repository
-git clone https://github.com/[your-username]/indonesia-tourism-analysis.git
-cd indonesia-tourism-analysis
-
-# 2. Install dependencies
-pip install pandas matplotlib openpyxl
-
-# 3. Open the notebook
-jupyter notebook indonesia_tourism_analysis.ipynb
-```
-
-Run each cell from top to bottom. The notebook will generate all charts automatically.
-
----
-
 ## Key Findings
 
 ### 1. Tourism is growing - but slowing down
